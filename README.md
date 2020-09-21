@@ -5,3 +5,5 @@
 [Лекция 2](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20200907_operators_decorators.ipynb) Структура класса, класс как объект. Перегрузка операторов, декораторы. Значения параметров функции по умолчанию. Свертка параметров.
 
 [Лекция 3](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20200911_Inheritance.ipynb) Наследование.
+
+[Лекция 4](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20200921_design_patterns.ipynb) Шаблоны проектирования.
