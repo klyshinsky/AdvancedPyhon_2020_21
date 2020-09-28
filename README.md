@@ -16,3 +16,5 @@
 
 Видео с лекции: [часть 1.1](https://www.youtube.com/watch?v=G6OdYoTiz04), [часть 1.2](https://www.youtube.com/watch?v=U1FW22Ov1f4), [часть 2.1](https://www.youtube.com/watch?v=7MBgynpsuV8), [часть 2.2](https://www.youtube.com/watch?v=Bt2g6yDuaPM).
 
+[Лекция 5](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/software_design.pdf) Технология проектирования программного обеспечения (презентация).
+
