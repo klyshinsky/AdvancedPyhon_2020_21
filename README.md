@@ -18,3 +18,6 @@
 
 [Лекция 5](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/software_design.pdf) Технология проектирования программного обеспечения (презентация).
 
+Видео с лекции: [часть 1](https://www.youtube.com/watch?v=rPAeg3w8Dn0), [часть 2](https://www.youtube.com/watch?v=zf64WaqqC1E).
+
+[Лекция 6](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20201026_multiprocessing.ipynb) Параллельное программирование на Python.
