@@ -1,5 +1,7 @@
 # Питон для продвинутой группы лингвистов, 2020-2021
 
+### Тетрадки к лекциям и видео с лекций.
+
 [Лекция 1](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20200904.ipynb) Что такое морфология, как ускорить морфологию за счет кеширования, как создать свой класс.
 
 Видео с лекции: [часть 1](https://www.youtube.com/watch?v=B6PCiZD2tWU), [часть 2](https://www.youtube.com/watch?v=lxcXlxAx_FM).
@@ -21,3 +23,21 @@
 Видео с лекции: [часть 1](https://www.youtube.com/watch?v=rPAeg3w8Dn0), [часть 2](https://www.youtube.com/watch?v=zf64WaqqC1E).
 
 [Лекция 6](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20201026_multiprocessing.ipynb) Параллельное программирование на Python.
+
+Лекция 7, Очень краткое введение в методы оптимизации.  
+[часть 1](https://youtu.be/5adxhZtl5RA) - классические методы.
+[часть 2](https://youtu.be/1gikgk32zJw) - стохастические методы.
+
+Лекция 8, Как под VirtualBox настроить Nginx чтобы он работал со скриптами Python:  
+[часть 1](https://youtu.be/aBuWhTOXFkw) - настройка виртуальной машины и сервера.  
+[часть 2](https://youtu.be/4fqPFrtkNXU) - что такое JavaScript и как с его помощью получить результаты работы скрипта.
+
+### Полезные ссылки
+
+[Ужасно замечательный Питон](https://github.com/trananhkma/fucking-awesome-python) - Коллекция ссылок на библиотеки, утилиты, книги, техники, ... на Питоне.
+
+[Простое объяснение принципов SOLID](https://habr.com/ru/company/mailru/blog/412699/) - Если вы хотите проектировать систему с использованием классов, вам надо понимать принципы SOLID.
+
+[Problem Solving with Algorithms and Data Structures (рус)](https://aliev.me/runestone/) - Перевод книги по алгоритмам и структурам данных на Питоне на русский язык.
+
+
