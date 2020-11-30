@@ -25,12 +25,12 @@
 [Лекция 6](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20201026_multiprocessing.ipynb) Параллельное программирование на Python.
 
 Лекция 7, Очень краткое введение в методы оптимизации.  
-Видео с лекции:
+Видео с лекции:  
 [часть 1](https://youtu.be/5adxhZtl5RA) - классические методы.
 [часть 2](https://youtu.be/1gikgk32zJw) - стохастические методы.
 
 Лекция 8, Как под VirtualBox настроить Nginx чтобы он работал со скриптами Python:  
-Видео с лекции:
+Видео с лекции:  
 [часть 1](https://youtu.be/aBuWhTOXFkw) - настройка виртуальной машины и сервера.  
 [часть 2](https://youtu.be/4fqPFrtkNXU) - что такое JavaScript и как с его помощью получить результаты работы скрипта.
 
