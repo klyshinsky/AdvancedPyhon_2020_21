@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>That's my page</title>
+<!-- 
+Это таблица стилей, которая не вынесена из html.
+Это плохо, если файлов много, и стиль надо поменять у всех.
+-->
+<style>
+    body {
+        width: 65em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+    .c1 { background-color:#888;
+          padding:5px;
+    }
+    .c2 { background-color:#88f;
+    }
+</style>
+<!--  Пошла секция со скриптами. -->
+<script type="text/javascript">
+let data=[{"asdas":"asasadas"}];
+
+// Эта функция отправляет запрос к серверу, получает ответ 
+// и оформляет ответо в виде таблицы.
+function getData() {
+
+// Создать переменную для отправки запроса на сервер.
+  let xhr = new XMLHttpRequest();
+// Определяем куда удет отправляться запрос.
+// GET-запрос к серверу (дай мне данные).
+// скрипт - 1.ру, параметры - prefix и page.
+// false - не возвращаться в данную функцию, пока 
+  xhr.open('GET', '1.py?prefix='+edit1.value+"&page="+page_no, false);
+// Отправляем 
+  xhr.send();
+// Дождались ответа, если он 200 (Ок), то строим таблицу.
+  if (xhr.status == 200) {
+// Получаем текст отклика (он должен быть строкой json), превращаем его в объект.
+    let result = JSON.parse(xhr.responseText);
+// Строка с таблицей.
+    let restr = "<table>";
+// i меняется от 0 до длины массива результата, увеличиваясь на 1.
+// Для каждого объекта добавляем в таблицу две ячейки.
+    for (let i = 0; i < result.length; i++)
+      restr += "<tr><td>"+result[i].asdf+"</td><td>"+result[i].zxc+"</td></tr>";
+    restr += "</table>";
+// Кладем таблицу внутрь div с идентификатором div2 (определен ниже).
+// После этого у нас на страницу отображается полученная таблица с данными.
+    div2.innerHTML = restr;
+  }
+}
+
+// Функция показывает как можно поменять содержимое элемента html или его форматирование.
+function changeContent() {
+  // div1.innerHTML="<b>Text12</b>";
+  p1.style.fontWeight="bold";
+  p1.style.fontStyle="italic";
+
+}
+</script>
+
+</head>
+<body>
+<h2>Welcome to data exchange!</h2>
+<p class="c1">If you see this page, the nginx web server is successfully installed and
+working. Further configuration is required.</p>
+
+<p class="c2">For online documentation and support please refer to
+<a href="http://nginx.org/">nginx.org</a>.<br/>
+
+<script type="text/javascript">
+// Инициализируем глобальную переменную, в которой будем хранить номер страницы для отобраения наших данных.
+let page_no = 0;
+</script>
+
+<p id="p1"><em>Thank you for using nginx.</em></p>
+
+<a nohref onclick="page_no--;getData();" style="cursor:pointer">&#1659;</a><a nohref onclick="page_no++;getData();" style="cursor:pointer">&#1660;</a><br>
+
+<input id="edit1" type="text" size="60">
+
+<a href='#' onclick='getData();'>Press here to get result</a>
+<div id="div3">
+Text 3<br>
+<div id="div1" style="background:green;width:45%;display:inline-block;">Text1</div>
+<div id="div2" style="background:blue;color:#F4F4F4;width:45%;display:inline-block;">Text2</div>
+</div>
+
+<table border="1" cellspacing=0 bordercolor="red">
+<tr class="c1"><td style="padding:5px;padding-left:10px;">1.1</td><td style="padding:5px;padding-left:10px;">1.2</td></tr>
+<tr class="c2"><td style="padding:5px;padding-left:10px;">2.1</td><td style="padding:5px;padding-left:10px;">2.2</td></tr>
+<tr class="c1"><td style="padding:5px;padding-left:10px;">3.1</td><td style="padding:5px;padding-left:10px;">3.2</td></tr>
+</table>
+
+
+</body>
+</html>
