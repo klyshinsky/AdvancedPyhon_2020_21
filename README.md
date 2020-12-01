@@ -2,7 +2,7 @@
 
 ### Тетрадки к лекциям и видео с лекций.
 
-[Лекция 1](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20200904.ipynb) Что такое морфология, как ускорить морфологию за счет кеширования, как создать свой класс.
+[**Лекция 1**](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20200904.ipynb) Что такое морфология, как ускорить морфологию за счет кеширования, как создать свой класс.
 
 Видео с лекции: [часть 1](https://www.youtube.com/watch?v=B6PCiZD2tWU), [часть 2](https://www.youtube.com/watch?v=lxcXlxAx_FM).
 
@@ -24,17 +24,17 @@
 
 [Лекция 6](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20201026_multiprocessing.ipynb) Параллельное программирование на Python.
 
-Лекция 7, Очень краткое введение в методы оптимизации.  
+**Лекция 7**, Очень краткое введение в методы оптимизации.  
 Видео с лекции:  
 [часть 1](https://youtu.be/5adxhZtl5RA) - классические методы.
 [часть 2](https://youtu.be/1gikgk32zJw) - стохастические методы.
 
-Лекция 8, Как под VirtualBox настроить Nginx чтобы он работал со скриптами Python:  
+**Лекция 8**, Как под VirtualBox настроить Nginx чтобы он работал со скриптами Python:  
 Видео с лекции:  
 [часть 1](https://youtu.be/aBuWhTOXFkw) - настройка виртуальной машины и сервера.  
 [часть 2](https://youtu.be/4fqPFrtkNXU) - что такое JavaScript и как с его помощью получить результаты работы скрипта.
 
-Лекция 9, как наладить взаимодействие питоновских скриптов с сервера под Nginx на клиента в браузере.  
+**Лекция 9**, как наладить взаимодействие питоновских скриптов с сервера под Nginx на клиента в браузере.  
 Примеры настроек для сайта, скрипта для сервера и html-страницы для клиента находятся в папке [site_creation](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/site_creation/).
 [часть 1](https://youtu.be/pDuR3LseU1Y) - Немного об HTML и стилях.  
 [часть 2](https://youtu.be/Z4g1OTwAjx0) - Немного о JavaScript, REST и обработке запросов скриптами на веб-сервере.
