@@ -31,6 +31,7 @@
 
 **Лекция 9**, как наладить взаимодействие питоновских скриптов с сервера под Nginx на клиента в браузере.  
 Примеры настроек для сайта, скрипта для сервера и html-страницы для клиента находятся в папке [site_creation](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/site_creation/).  
+Видео с лекции:  
 [часть 1](https://youtu.be/pDuR3LseU1Y) - Немного об HTML и стилях.  
 [часть 2](https://youtu.be/Z4g1OTwAjx0) - Немного о JavaScript, REST и обработке запросов скриптами на веб-сервере.
 
