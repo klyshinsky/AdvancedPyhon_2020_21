@@ -35,7 +35,7 @@
 [часть 1](https://youtu.be/pDuR3LseU1Y) - Немного об HTML и стилях.  
 [часть 2](https://youtu.be/Z4g1OTwAjx0) - Немного о JavaScript, REST и обработке запросов скриптами на веб-сервере.
 
-[**Лекция 6**](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20210126_unittest.ipynb) Работа с файлами конфигурации, журналом событий, тестирование программ на Питоне.
+[**Лекция 10**](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20210126_unittest.ipynb) Работа с файлами конфигурации, журналом событий, тестирование программ на Питоне.
 
 
 ### Полезные ссылки
