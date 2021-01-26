@@ -35,12 +35,14 @@
 [часть 1](https://youtu.be/pDuR3LseU1Y) - Немного об HTML и стилях.  
 [часть 2](https://youtu.be/Z4g1OTwAjx0) - Немного о JavaScript, REST и обработке запросов скриптами на веб-сервере.
 
+[**Лекция 6**](https://github.com/klyshinsky/AdvancedPyhon_2020_21/blob/master/lecture_20210126_unittest.ipynb) Работа с файлами конфигурации, журналом событий, тестирование программ на Питоне.
+
+
 ### Полезные ссылки
 
 [Ужасно замечательный Питон](https://github.com/trananhkma/fucking-awesome-python) - Коллекция ссылок на библиотеки, утилиты, книги, техники, ... на Питоне.
 
 [Простое объяснение принципов SOLID](https://habr.com/ru/company/mailru/blog/412699/) - Если вы хотите проектировать систему с использованием классов, вам надо понимать принципы SOLID.
 
-[Problem Solving with Algorithms and Data Structures (рус)](https://aliev.me/runestone/) - Перевод книги по алгоритмам и структурам данных на Питоне на русский язык.
-
-
+[Problem Solving with Algorithms and Data Structures (рус)](https://aliev.me/runestone/) - Перевод книги по алгоритмам и структурам данных на Питоне на русский язык.  
+Оригинал находится [здесь](https://runestone.academy/runestone/books/published/pythonds/index.html).
